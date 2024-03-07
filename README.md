@@ -1,0 +1,2 @@
+# 2024_OpenMetBuoy_data_release_MarginalIceZone_SeaIce_OpenOcean
+Dataset release based on OpenMetBuoy, covering the Norwegian Arctic
